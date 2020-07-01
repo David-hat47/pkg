@@ -85,6 +85,7 @@ pkg install wget -y
 pkg install wireshark -y
 pkg install wgetrc -y
 pkg install wcalc -y
+pkg install bs4 -y
 pkg install bmon -y
 pkg install unrar -y
 pkg install toilet -y
