@@ -76,6 +76,7 @@ pkg install cowsay -y
 pkg install curl -y
 pkg install tar -y
 pkg install zip -y
+pip2 install requests bs4
 pkg install unzip -y
 pip install --upgrade pip
 pkg install tor -y
